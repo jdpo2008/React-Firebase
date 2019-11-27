@@ -1,0 +1,4 @@
+$(function() {
+    $("[name='isGoing']").bootstrapSwitch();
+
+});

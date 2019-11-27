@@ -1,0 +1,17 @@
+
+.mt-2 {
+    margin-top: 2em !important;
+}
+.p-1 {
+    padding: 1em !important;
+}
+.d-flex {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+.error {
+    color:#db2269;
+    font-size: 0.7em;
+    display: relative;
+}
